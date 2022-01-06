@@ -33,4 +33,5 @@ public class Disarumnum {
         Disa d= new Disa();
         d.isDisarium();
     }
+    
 }
