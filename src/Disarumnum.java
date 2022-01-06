@@ -1,3 +1,6 @@
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.awt.*;
 import java.util.Scanner;
 import static java.lang.Math.pow;
