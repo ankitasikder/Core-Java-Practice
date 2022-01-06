@@ -6,6 +6,9 @@
 //8 14 26 50 98
 //a b n
 //(a+2^0b) (a+2^0b+2^1b) (a+2^0b+2^1b+...+2^(n-1)b)
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.util.Scanner;
 class Series
 {
