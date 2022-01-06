@@ -1,4 +1,7 @@
 //7.  Create a class named Subtractor. Create a parameterized function named sub() in this class. Create another 3 classes named Subtractorsubclass1, Subtractorsubclass2 and Subtractorsubclass3. These classes will be in hierarchical inheritance. Subtractor will be the grandparent. Print 3 different results in 3 different subclasses using function overriding. Create only object for the grandparent class. Print the results of subclasses using reference variable.
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.math.BigDecimal;
 class Subtractor {
     BigDecimal Sub(float a, float b) {
