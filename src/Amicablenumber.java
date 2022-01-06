@@ -1,3 +1,6 @@
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.util.Scanner;
 class Amica{
     static void isAmicable(){
