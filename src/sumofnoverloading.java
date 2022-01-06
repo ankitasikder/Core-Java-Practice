@@ -1,4 +1,7 @@
 //2.  Add numbers between 1 to n. Create a class named Adder. Create a function named add() in this class. Then perform addition of 2 numbers and then 1 to n numbers using function overloading.
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.util.Scanner;
 import java.math.BigDecimal;
 class Adder{
