@@ -1,3 +1,6 @@
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 public class specialnum {
     public static void main(String[] args)
     {
