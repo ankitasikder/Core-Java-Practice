@@ -1,4 +1,7 @@
 //4.	Print Reverse of a number using inheritance.
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.util.Scanner;
 class reverse
 {
