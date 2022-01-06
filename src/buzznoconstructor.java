@@ -1,4 +1,7 @@
 //1.  Create a class named Buzznum. Create a parameterized constructor in this class. The logic part will be in this constructor. Create another function in this class named display(). Take runtime input in main() function. The printing statements in be in the display().
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.util.Scanner;
 class Buzznum{
     int f=0;
