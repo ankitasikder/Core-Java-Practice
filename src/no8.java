@@ -2,7 +2,9 @@ import java.util.*;
 import java.util.Scanner;
 
 //8.  Create class named Takeinput2. Create 2 functions named takelowerlimit() and takeupperlimit(). Create 3 functions named takethreedigit(), takestring(), takearray(). Create object in main() and take the runtime  inputs and using takelowerlimt() and takeupperlimit() check buzz no., amstrong no., krishnamurti no. Check magic number using takethreedigit().Count vowels and consonents in a string using takestring(). Print reverse of an array using takearray(). There should not be extra classes except main and Takeinput2. Don’t use inheritance.
-
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 
 
 class Takeinput2{
