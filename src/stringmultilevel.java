@@ -1,4 +1,7 @@
 //3.  Create 4 classes named Sc, Stu, Stl, Scmp. These classes will be in multlevel inheritance consequently. (i) Perform concatenation of 2 strings in Sc class. (ii) Convert a string in to upper class in Stu class. (iii) Convert a string in to lower class in Stl class. (iv) Compare 2 strings in Scmp class. Take the string in runtime input in main function. Also create a menu for choosing option.
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
 import java.util.*;
 class Sc{
     void concat(String n1,String n2){
