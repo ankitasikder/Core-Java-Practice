@@ -2,6 +2,9 @@
         public  abstract void print1();
         public  abstract void print1a();
     }
+/*CREATED BY ANKITA SIKDER
+email id: ankita.sikder@gmail.com
+*/
     abstract class Q extends P{
         public void print1(){
             System.out.print("Print1,");
